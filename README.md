@@ -1,5 +1,6 @@
 # Linked HPC
-Relationship Capturing Service for HPC Clusters
+
+Relationship Mining Service for HPC Clusters
 
 **Introduction:**
 
