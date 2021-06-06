@@ -1,5 +1,5 @@
-# HPC_Provenance
-Provenance Service for HPC Clusters
+# Linked HPC
+Relationship Capturing Service for HPC Clusters
 
 **Introduction:**
 
